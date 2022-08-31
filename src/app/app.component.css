@@ -1,0 +1,12 @@
+.box{
+    display: flex;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 20%;
+    border-color: aqua;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
